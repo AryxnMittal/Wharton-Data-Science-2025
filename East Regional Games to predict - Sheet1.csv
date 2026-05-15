@@ -1,0 +1,11 @@
+game_id,description,team_home,team_away,seed_home,seed_away,home_away_NS,rest_days_Home,rest_days_Away,travel_dist_Home,travel_dist_Away,WINNING %
+G_East_1,play-in-game,rhode_island_rams,north_carolina_tar_heels,16,17,0,6,1,0,770,
+G_East_2,play-in team A v 1,nc_state_wolfpack,rhode_island_rams,1,16,0,7,1,1440,0,
+G_East_3,play-in team B v 1,nc_state_wolfpack,north_carolina_tar_heels,1,17,0,7,1,1440,770,
+G_East_4,2 v 15,liberty_flames,bucknell_bison,2,9,0,7,10,255,250,
+G_East_5,3 v 14,drexel_dragons,delaware_blue_hens,3,10,0,11,9,0,680,
+G_East_6,4 v 13,massachusetts_minutewomen,princeton_tigers,4,11,0,9,7,75,34,
+G_East_7,5 v 12,buffalo_bulls,stony_brook_seawolves,5,12,0,8,8,60,3400,
+G_East_8,6 v 11,fairfield_stags,towson_tigers,6,13,0,7,9,20,220,
+G_East_9,7 v 10,uconn_huskies,campbell_fighting_camels,7,14,0,9,10,15,1966,
+G_East_10,8 v 9,american_university_eagles,columbia_lions,8,15,0,7,8,350,145,

@@ -1,0 +1,30 @@
+variable,description,ExampleA,ExampleB
+game_id,unique ID for each game,game_2013,game_2013
+game_date,date of game,12/30/21,12/30/21
+team,team unique ID,tennessee_lady_volunteers,alabama_crimson_tide
+FGA_2,2-Point Field Goal Attempt: Shots taken inside the 3-point line.,56,71
+FGM_2,2-Point Field Goals Made: Successful shots made inside the 3-point line,24,17
+FGA_3,3-Point Field Goal Attempt: Shots attempted beyond the 3-point arc,15,29
+FGM_3,3-Point Field Goal Attempt: Shots attempted beyond the 3-point arc,4,5
+FTA,Free Throw Attempt: Number of free throws a player takes.,15,8
+FTM,Free Throws Made: Successful free throws made.,10,5
+AST,A pass leading directly to a made basket.,16,8
+BLK,Block: Deflecting or stopping an opponent's shot attempt.,8,5
+STL,Steals: Gaining possession by intercepting or taking the ball from an opponent.,5,5
+TOV,Turnover: Losing possession due to mistakes or opponent actions.,15,11
+TOV_team,team TOV,1,0
+DREB,Defensive Rebound: Securing the ball after a missed shot by the opponent.,34,23
+OREB,Offensive Rebound: Recovering the ball after a missed shot by a teammate.,12,18
+F_personal,Foul - personal,13,16
+F_tech,Foul - technical,0,0
+team_score,total point at end of game,62,44
+opponent_team_score,Total point at end of game for opponnent,44,62
+largest_lead,The largest point lead at any point in the game,19,2
+notD1_incomplete,Not a D1 Team,FALSE,FALSE
+OT_length_min_tot,length in Min of OT,NA,NA
+rest_days,days since previous game. First game of season is reported as NA,3,17
+attendance,reports attendance at game (some games have missing fields),8124,8124
+tz_dif_H_E,Time zone difference from home stadium,0,0
+prev_game_dist,distance from previous game,0,439
+home_away_NS,venue of game. Home=1; Away=-1; Neutral site=0,1,-1
+travel_dist,travel distance from home stadium to venue,0,439
